@@ -1,0 +1,9 @@
+{
+  "name": "node-keylogger",
+  "version": "0.0.1",
+  "description": "A simple Node.js keylogger",
+  "main": "kl.js",
+  "dependencies": {
+    "ref": "^1.3.1"
+  }
+}
